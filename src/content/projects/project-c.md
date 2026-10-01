@@ -1,8 +1,9 @@
 ---
-name: "Project C"
-description: "This is an example project description! You should replace this with a description of your own project."
-tags: ["Framework A", "Library B", "Tool C", "Resource D"]
+name: "miniML/miniC Compiler"
+description: "Compiler for subset of Ocaml and C to RISC-V architecture using LLVM as IR!"
+tags: ["OCaml", "LLVM"]
 image: "./placeholder.png"
-link: "https://example.com"
-startDate: "2024-03-01"
+link: "https://github.com/cc0ffee/ML2RISCV-compiler"
+startDate: "2024-09-22"
+endDate: "2024-11-30"
 ---

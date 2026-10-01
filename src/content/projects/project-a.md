@@ -1,9 +1,9 @@
 ---
-name: "Project A"
-description: "This is an example project description! You should replace this with a description of your own project."
-tags: ["Framework A", "Library B", "Tool C", "Resource D"]
+name: "NESpresso"
+description: "A somewhat accurate NES emulator, available cross-platform!"
+tags: ["C++", "SDL2", "ImGui"]
 image: "./placeholder.png"
-link: "https://example.com"
-startDate: "2024-01-01"
-endDate: "2024-02-01"
+link: "https://github.com/cc0ffee/NESpresso"
+startDate: "2026-08-08"
+endDate: "2026-09-12"
 ---

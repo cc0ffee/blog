@@ -1,9 +1,9 @@
 ---
-name: "Project B"
-description: "This is an example project description! You should replace this with a description of your own project."
-tags: ["Framework A", "Library B", "Tool C", "Resource D"]
+name: "Domino"
+description: "Discord bot that helps give arrival times for all CTA stations through discord's slash commands and interactions."
+tags: ["Python"]
 image: "./placeholder.png"
-link: "https://example.com"
-startDate: "2024-02-01"
-endDate: "2024-03-01"
+link: "https://github.com/cc0ffee/domino"
+startDate: "2023-07-03"
+endDate: "2023-11-08"
 ---
